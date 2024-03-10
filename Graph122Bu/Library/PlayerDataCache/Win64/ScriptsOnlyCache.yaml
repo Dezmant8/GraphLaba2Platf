@@ -1,0 +1,169 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp:
+    - Bullet
+    - EnemyBullet
+    - MovableMonster
+    - Obstacle
+    - ShootingEnemy
+    Assembly-CSharp.dll:
+    - Bullet
+    - Camera
+    - Character
+    - EnemyBullet
+    - MonsterYelow
+    - MovableMonster
+    - Obstacle
+    - ShootingEnemy
+    - Unit
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
+    - UnityEditor.Graphs.AnimatorControllerTool
+  serializedClasses: {}
+  methodsToPreserve: []
+  sceneClasses:
+    Assets/Lb2Platf.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 50
+      Script: {instanceID: 0}
+    - Class: 58
+      Script: {instanceID: 0}
+    - Class: 60
+      Script: {instanceID: 0}
+    - Class: 61
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1508}
+    - Class: 114
+      Script: {instanceID: 1510}
+    - Class: 114
+      Script: {instanceID: 1512}
+    - Class: 114
+      Script: {instanceID: 16726}
+    - Class: 114
+      Script: {instanceID: 16730}
+    - Class: 114
+      Script: {instanceID: 16732}
+    - Class: 114
+      Script: {instanceID: 16736}
+    - Class: 114
+      Script: {instanceID: 16738}
+    - Class: 114
+      Script: {instanceID: 17980}
+    - Class: 114
+      Script: {instanceID: 26418}
+    - Class: 114
+      Script: {instanceID: 36452}
+    - Class: 114
+      Script: {instanceID: 59922}
+    - Class: 114
+      Script: {instanceID: 71886}
+    - Class: 114
+      Script: {instanceID: 98066}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 264290b9c27fc2f440e728b83582c032
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Unit
+  - hash:
+      serializedVersion: 2
+      Hash: bef41c3c8e52a93d97aca40fb61d8d92
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Camera
+  - hash:
+      serializedVersion: 2
+      Hash: 321490e93d818b08773cfe43afe9c89a
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Character
+  - hash:
+      serializedVersion: 2
+      Hash: ba98108e51e1e563793233e6dfcd1a32
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Obstacle
+  - hash:
+      serializedVersion: 2
+      Hash: dace423a44d5b7163359341f35ded57f
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Monster
+  - hash:
+      serializedVersion: 2
+      Hash: 63034c21a32df3766ef8243c16cb8d2b
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: MovableMonster
+  - hash:
+      serializedVersion: 2
+      Hash: 2ca57fc056d6c6bb6b30fccadf70dfa9
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Bullet
+  - hash:
+      serializedVersion: 2
+      Hash: c04fd9c3183c4e8ac5bf8ad19e4ccb77
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: MonsterYelow
+  - hash:
+      serializedVersion: 2
+      Hash: 8069891cdf96d6c6d60520f34dc425e0
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ShootingEnemy
+  - hash:
+      serializedVersion: 2
+      Hash: e5b145607bf40691a1cb1dda7e018c7a
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: EnemyBullet
+  platform: 19
+  scenePathNames:
+  - Assets/Lb2Platf.unity
+  playerPath: C:/Users/User/Desktop/UnituProg/Graph122Bu.exe
